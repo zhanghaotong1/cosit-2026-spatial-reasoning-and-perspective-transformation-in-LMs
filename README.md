@@ -35,11 +35,11 @@ If you use this code or data, please consider citing our paper:
 
 ```
 @inproceedings{zhang2026spatial,
-    title = "On Spatial Reasoning and Perspective Transformation in Language Models",
-    author = "Zhang, Haotong and Pratt-Hartmann, Ian",
-    booktitle = "17th International Conference on Spatial Information Theory (COSIT 2026)",
-    year = "2026",
-    address = "York, UK",
-    pages = "7:1-7:20",
+  author =	{Zhang, Haotong and Pratt-Hartmann, Ian},
+  title =	{{On Spatial Reasoning and Perspective Transformation in Language Models}},
+  booktitle =	{17th International Conference on Spatial Information Theory (COSIT 2026)},
+  pages =	{6:1--6:20},
+  year =	{2026},
+  address =	{York, UK},
 }
 ```
